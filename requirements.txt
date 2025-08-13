@@ -3,6 +3,6 @@ scikit-learn
 nltk
 pandas
 numpy
-import nltk
+nltk
 nltk.download('punkt')
 nltk.download('stopwords')
