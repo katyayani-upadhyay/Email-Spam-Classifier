@@ -7,4 +7,4 @@ set -e
 pip install -r requirements.txt
 
 # Run Python script to download NLTK data
-python -c "import nltk; nltk.download('punkt'); nltk.download('stopwords')"
+python -c "import nltk; nltk.download('punkt'); nltk.download('stopwords');nltk.download('punkt_tab')"
